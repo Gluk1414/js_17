@@ -1,0 +1,14 @@
+let a95 = 53
+a95
+53
+a95 * 100
+5300
+let disel = 53.4
+(a95+disel) * (a95 *disel)
+301133.27999999997
+
+{let a95 = 20
+ let disel = 25
+ a95+disel
+}
+45
